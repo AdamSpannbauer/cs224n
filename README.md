@@ -1,9 +1,16 @@
 # Stanford CS224n: NLP with Deep Learning
 
-Links (Winter 2019 materials & lectures)
 
-- [Schedule](http://web.stanford.edu/class/cs224n/index.html#schedule) (assignments etc)
-- [Lecture Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+## Lectures
+
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+## Schedule
+
+See schedule below for ordering, assignemnts, and additional links.  For context on pacing, the class met every Tuesday and Thursday.
+
+Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#schedule).
+
 
 <table class="table">
   <colgroup>
