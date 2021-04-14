@@ -2,13 +2,11 @@
 
 Links (Winter 2019 materials & lectures)
 
-* [Schedule](http://web.stanford.edu/class/cs224n/index.html#schedule) (assignments etc)
-* [Lecture Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-
+- [Schedule](http://web.stanford.edu/class/cs224n/index.html#schedule) (assignments etc)
+- [Lecture Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 <table class="table">
   <colgroup>
-    <col style="width:10%">
     <col style="width:20%">
     <col style="width:40%">
     <col style="width:10%">
@@ -16,7 +14,6 @@ Links (Winter 2019 materials & lectures)
   </colgroup>
   <thead>
   <tr class="active">
-    <th>Date</th>
     <th>Description</th>
     <th>Course Materials</th>
     <th>Events</th>
@@ -25,7 +22,6 @@ Links (Winter 2019 materials & lectures)
   </thead>
   <tbody>
   <tr>
-    <td>Tue Jan 12</td>
     <td>Word Vectors
       <br>
       [<a href="slides/cs224n-2021-lecture01-wordvecs1.pdf">slides</a>]
@@ -55,7 +51,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Jan 14</td>
     <td>Word Vectors 2 and Word Window Classification
       <br>
       [<a href="slides/cs224n-2021-lecture02-wordvecs2.pdf">slides</a>]
@@ -81,7 +76,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr class="warning">
-    <td>Fri Jan 15</td>
     <td>Python Review Session
       <br>
       [<a href="readings/cs224n-python-review-code-updated.zip">code</a>]
@@ -95,7 +89,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Jan 19</td>
     <td>Backprop and Neural Networks
       <br>
       [<a href="slides/cs224n-2021-lecture03-neuralnets.pdf">slides</a>]
@@ -127,7 +120,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Jan 21</td>
     <td>Dependency Parsing
       <br>
       [<a href="slides/cs224n-2021-lecture04-dep-parsing.pdf">slides</a>]
@@ -151,7 +143,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr class="warning">
-    <td>Fri Jan 22</td>
     <td>PyTorch Tutorial Session
     <br>
       [<a href="https://colab.research.google.com/drive/1Z6K6nwbb69XfuInMx7igAp-NNVj_2xc3?usp=sharing">colab notebook</a>]
@@ -167,7 +158,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Jan 26</td>
     <td>Recurrent Neural Networks and Language Models
       <br>
       [<a href="slides/cs224n-2021-lecture05-rnnlm.pdf">slides</a>]
@@ -192,7 +182,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Jan 28</td>
     <td>Vanishing Gradients, Fancy RNNs, Seq2Seq
       <br>
       [<a href="slides/cs224n-2021-lecture06-fancy-rnn.pdf">slides</a>]
@@ -214,7 +203,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Feb 2</td>
     <td>Machine Translation, Attention, Subword Models
       <br>
       [<a href="slides/cs224n-2021-lecture07-nmt.pdf">slides</a>]
@@ -246,7 +234,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Feb 4</td>
     <td>Final Projects: Custom and Default; Practical Tips
       <br>
       [<a href="slides/cs224n-2021-lecture08-final-project.pdf">slides</a>]
@@ -273,7 +260,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Feb 9</td>
     <td>Transformers <i>(lecture by <a href="https://nlp.stanford.edu/~johnhew/">John Hewitt</a>)</i>
     <br>
     [<a href="slides/cs224n-2021-lecture09-transformers.pdf">slides</a>]
@@ -302,7 +288,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Feb 11</td>
     <td>More about Transformers and Pretraining <i>(lecture by <a href="https://nlp.stanford.edu/~johnhew/">John Hewitt</a>)</i>
       <br>
       [<a href="slides/cs224n-2021-lecture10-pretraining.pdf">slides</a>]
@@ -329,7 +314,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Feb 16</td>
     <td>Question Answering <i>(guest lecture by <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>)</i>
       <br>
       [<a href="slides/cs224n-2021-lecture11-qa-v2.pdf">slides</a>]
@@ -362,7 +346,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Feb 18</td>
     <td>Natural Language Generation <i>(lecture by <a href="https://atcbosselut.github.io/">Antoine Bosselut</a>)</i>
       <br>
       [<a href="slides/cs224n-2021-lecture12-generation.pdf">slides</a>]
@@ -389,7 +372,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Fri Feb 19</td>
     <td><i></i>
     </td>
     <td></td>
@@ -400,7 +382,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Feb 23</td>
       <td>Reference in Language and Coreference Resolution
         <br>
         [<a href="slides/cs224n-2021-lecture13-coref.pdf">slides</a>]
@@ -421,7 +402,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Feb 25</td>
     <td>T5 and large language models: The good, the bad, and the ugly <i>(guest lecture by <a href="https://colinraffel.com/">Colin Raffel</a>)</i>
     <br>
     [<a href="slides/cs224n-2021-lecture14-t5.pdf">slides</a>]
@@ -439,7 +419,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Mar 2</td>
     <td>Integrating knowledge in language models <i>(lecture by <a href="http://www.mleszczy.com">Megan Leszczynski</a>)</i>
     <br>
     [<a href="slides/cs224n-2021-lecture15-lm.pdf">slides</a>]
@@ -466,7 +445,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Mar 4</td>
     <td>Social &amp; Ethical Considerations in NLP Systems <i>(guest lecture by <a href="http://www.cs.cmu.edu/~ytsvetko/">Yulia Tsvetkov</a>)</i>
     <br>
     [<a href="slides/cs224n-2021-lecture16-ethics.pdf">slides</a>]
@@ -477,7 +455,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Mar 9</td>
     <td>Model Analysis and Explanation <i>(lecture by <a href="https://nlp.stanford.edu/~johnhew/">John Hewitt</a>)</i>
       <br>
       [<a href="slides/cs224n-2021-lecture17-analysis.pdf">slides</a>]
@@ -488,7 +465,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Mar 11</td>
     <td>Future of NLP + Deep Learning <i>(lecture by <a href="https://murtyshikhar.github.io/">Shikhar Murty</a>)</i>
       <br>
       [<a href="slides/cs224n-2021-lecture18-future.pdf">slides</a>]
@@ -499,7 +475,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Fri Mar 12</td>
     <td></td>
     <td></td>
     <td>Project Summary Image and Paragraph <b><font color="green">out</font></b>
@@ -509,7 +484,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Tue Mar 16</td>
     <td>Ask Me Anything / Final Project Assistance</td>
     <td></td>
     <td></td>
@@ -520,7 +494,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Thu Mar 18</td>
     <td>Final Project Emergency Assistance
     </td>
     <td></td>
@@ -529,7 +502,6 @@ Links (Winter 2019 materials & lectures)
   </tr>
 
   <tr>
-    <td>Fri Mar 19</td>
     <td></td>
     <td></td>
     <td></td>
