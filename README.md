@@ -31,14 +31,14 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Word Vectors
       <br>
-      [<a href="slides/cs224n-2021-lecture01-wordvecs1.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture01-wordvecs1.pdf">slides</a>]
       <!--[<a href="https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2acdfb7-8038-49fb-941e-ab25012bd9ec">video</a>]-->
-      [<a href="readings/cs224n-2019-notes01-wordvecs1.pdf">notes</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf">notes</a>]
       <br><br>
       Gensim word vectors example:
       <br>
-      [<a href="materials/Gensim.zip">code</a>]
-      [<a href="materials/Gensim%20word%20vector%20visualization.html">preview</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/materials/Gensim.zip">code</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visualization.html">preview</a>]
     </td>
     <td>
       Suggested Readings:
@@ -50,9 +50,9 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     <td>
       Assignment 1 <b><font color="green">out</font></b>
       <br>
-      [<a href="assignments/a1.zip">code</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/assignments/a1.zip">code</a>]
       <br>
-      [<a href="assignments/a1_preview/exploring_word_vectors.html">preview</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/assignments/a1_preview/exploring_word_vectors.html">preview</a>]
     </td>
     <td></td>
   </tr>
@@ -60,9 +60,9 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Word Vectors 2 and Word Window Classification
       <br>
-      [<a href="slides/cs224n-2021-lecture02-wordvecs2.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture02-wordvecs2.pdf">slides</a>]
       <!--[<a href="">video</a>]-->
-      [<a href="readings/cs224n-2019-notes02-wordvecs2.pdf">notes</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf">notes</a>]
     </td>
     <td>
       Suggested Readings:
@@ -85,8 +85,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr class="warning">
     <td>Python Review Session
       <br>
-      [<a href="readings/cs224n-python-review-code-updated.zip">code</a>]
-      [<a href="readings/cs224n-python-review-code-updated.pdf">preview</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-python-review-code-updated.zip">code</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-python-review-code-updated.pdf">preview</a>]
     </td>
     <td>
       <i class="fa fa-clock-o"></i> 10:00am - 11:20am<!--<br>160-124 [<a href="https://campus-map.stanford.edu/">map</a>]-->
@@ -98,14 +98,14 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Backprop and Neural Networks
       <br>
-      [<a href="slides/cs224n-2021-lecture03-neuralnets.pdf">slides</a>]
-      [<a href="readings/cs224n-2019-notes03-neuralnets.pdf">notes</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture03-neuralnets.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf">notes</a>]
     </td>
     <td>
       Suggested Readings:
       <ol>
-        <li><a href="readings/gradient-notes.pdf">matrix calculus notes</a></li>
-        <li><a href="readings/review-differential-calculus.pdf">Review of differential calculus</a></li>
+        <li><a href="http://web.stanford.edu/class/cs224n/readings/gradient-notes.pdf">matrix calculus notes</a></li>
+        <li><a href="http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf">Review of differential calculus</a></li>
         <li><a href="http://cs231n.github.io/neural-networks-1/">CS231n notes on network architectures</a></li>
         <li><a href="http://cs231n.github.io/optimization-2/">CS231n notes on backprop</a></li>
         <li><a href="http://cs231n.stanford.edu/handouts/derivatives.pdf">Derivatives, Backpropagation, and Vectorization</a></li>
@@ -120,8 +120,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     <td>
       Assignment 2 <b><font color="green">out</font></b>
       <br>
-      [<a href="assignments/a2.zip">code</a>]
-      [<a href="assignments/a2.pdf">handout</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/assignments/a2.zip">code</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/assignments/a2.pdf">handout</a>]
     </td>
     <td>Assignment 1 <b><font color="red">due</font></b></td>
   </tr>
@@ -129,8 +129,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Dependency Parsing
       <br>
-      [<a href="slides/cs224n-2021-lecture04-dep-parsing.pdf">slides</a>]
-      [<a href="readings/cs224n-2019-notes04-dependencyparsing.pdf">notes</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture04-dep-parsing.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf">notes</a>]
       <br>
       [<a href="slides/cs224n-2021-lecture04-dep-parsing-annotated.pdf">slides (annotated)</a>]
     </td>
@@ -153,9 +153,9 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     <td>PyTorch Tutorial Session
     <br>
       [<a href="https://colab.research.google.com/drive/1Z6K6nwbb69XfuInMx7igAp-NNVj_2xc3?usp=sharing">colab notebook</a>]
-      [<a href="materials/CS224N_PyTorch_Tutorial.html">preview</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html">preview</a>]
     <br>
-      [<a href="materials/CS224N PyTorch Tutorial.ipynb">jupyter notebook</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/materials/CS224N PyTorch Tutorial.ipynb">jupyter notebook</a>]
     </td>
     <td>
       <i class="fa fa-clock-o"></i> 10:00am - 11:20am
@@ -167,8 +167,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Recurrent Neural Networks and Language Models
       <br>
-      [<a href="slides/cs224n-2021-lecture05-rnnlm.pdf">slides</a>]
-       [<a href="readings/cs224n-2019-notes05-LM_RNN.pdf">notes (lectures 5 and 6)</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture05-rnnlm.pdf">slides</a>]
+       [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf">notes (lectures 5 and 6)</a>]
     </td>
     <td>
       Suggested Readings:
@@ -182,8 +182,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     </td>
     <td>Assignment 3 <b><font color="green">out</font></b>
         <br>
-        [<a href="assignments/a3.zip">code</a>]
-        [<a href="assignments/a3.pdf">handout</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/assignments/a3.zip">code</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/assignments/a3.pdf">handout</a>]
     </td>
     <td>Assignment 2 <b><font color="red">due</font></b></td>
   </tr>
@@ -191,8 +191,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Vanishing Gradients, Fancy RNNs, Seq2Seq
       <br>
-      [<a href="slides/cs224n-2021-lecture06-fancy-rnn.pdf">slides</a>]
-      [<a href="readings/cs224n-2019-notes05-LM_RNN.pdf">notes (lectures 5 and 6)</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture06-fancy-rnn.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf">notes (lectures 5 and 6)</a>]
     </td>
     <td>
       Suggested Readings:
@@ -212,8 +212,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Machine Translation, Attention, Subword Models
       <br>
-      [<a href="slides/cs224n-2021-lecture07-nmt.pdf">slides</a>]
-      [<a href="readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf">notes</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf">notes</a>]
     </td>
     <td>
       Suggested Readings:
@@ -232,8 +232,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     </td>
     <td>Assignment 4 <b><font color="green">out</font></b>
         <br>
-        [<a href="assignments/a4.zip">code</a>]
-        [<a href="assignments/a4.pdf">handout</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/assignments/a4.zip">code</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/assignments/a4.pdf">handout</a>]
         [<a href="https://docs.google.com/document/d/1BQOAjhBxWbywkB4rMFH9iinb6YHSjaWw1TOVlGfyYho/edit#heading=h.4tqnggp12z76">Azure Guide</a>]
         [<a href="https://docs.google.com/document/d/1jtANWXbIYXMZO_2X7jupauPxcEbz-TVJkdatg4gzOdk/edit">Practical Guide to VMs</a>]
     </td>
@@ -243,8 +243,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Final Projects: Custom and Default; Practical Tips
       <br>
-      [<a href="slides/cs224n-2021-lecture08-final-project.pdf">slides</a>]
-      [<a href="readings/final-project-practical-tips.pdf">notes</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture08-final-project.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/final-project-practical-tips.pdf">notes</a>]
     </td>
     <td>
       Suggested Readings:
@@ -254,13 +254,13 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     </td>
     <td>Project Proposal <b><font color="green">out</font></b>
         <br>
-        [<a href="project/project-proposal-instructions-2021.pdf">instructions</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/project/project-proposal-instructions-2021.pdf">instructions</a>]
         <br><br>
         Default Final Project <b><font color="green">out</font></b>
         <br>
-        [<a href="project/default-final-project-handout-squad-track.pdf">handout (IID SQuAD track)</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/project/default-final-project-handout-squad-track.pdf">handout (IID SQuAD track)</a>]
         <br>
-        [<a href="project/default-final-project-handout-robustqa-track.pdf">handout (Robust QA track)</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/project/default-final-project-handout-robustqa-track.pdf">handout (Robust QA track)</a>]
         <!--[<a href="https://github.com/minggg/squad">code</a>]-->
     </td>
     <td></td>
@@ -269,8 +269,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Transformers <i>(lecture by <a href="https://nlp.stanford.edu/~johnhew/">John Hewitt</a>)</i>
     <br>
-    [<a href="slides/cs224n-2021-lecture09-transformers.pdf">slides</a>]
-    [<a href="readings/cs224n-2019-notes07-QA.pdf">notes</a>]
+    [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture09-transformers.pdf">slides</a>]
+    [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes07-QA.pdf">notes</a>]
     </td>
     <td>
       Suggested Readings:
@@ -297,8 +297,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>More about Transformers and Pretraining <i>(lecture by <a href="https://nlp.stanford.edu/~johnhew/">John Hewitt</a>)</i>
       <br>
-      [<a href="slides/cs224n-2021-lecture10-pretraining.pdf">slides</a>]
-      [<a href="readings/cs224n-2019-notes07-QA.pdf">notes</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture10-pretraining.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes07-QA.pdf">notes</a>]
     </td>
     <td>
     Suggested Readings:
@@ -314,8 +314,8 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     </td>
     <td>Assignment 5 <b><font color="green">out</font></b>
       <br>
-      [<a href="assignments/a5.zip">code</a>]
-      [<a href="assignments/a5.pdf">handout</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/assignments/a5.zip">code</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/assignments/a5.pdf">handout</a>]
     </td>
     <td>Assignment 4 <b><font color="red">due</font></b></td>
   </tr>
@@ -323,7 +323,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Question Answering <i>(guest lecture by <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>)</i>
       <br>
-      [<a href="slides/cs224n-2021-lecture11-qa-v2.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture11-qa-v2.pdf">slides</a>]
     </td>
     <td>
     Suggested Readings:
@@ -355,7 +355,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Natural Language Generation <i>(lecture by <a href="https://atcbosselut.github.io/">Antoine Bosselut</a>)</i>
       <br>
-      [<a href="slides/cs224n-2021-lecture12-generation.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture12-generation.pdf">slides</a>]
     </td>
     <td>
     Suggested readings:
@@ -383,7 +383,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     </td>
     <td></td>
     <td>Project Milestone <b><font color="green">out</font></b>
-    [<a href="project/project-milestone-instructions-2021.pdf">instructions</a>]
+    [<a href="http://web.stanford.edu/class/cs224n/project/project-milestone-instructions-2021.pdf">instructions</a>]
     </td>
     <td>Assignment 5 <b><font color="red">due</font></b></td>
   </tr>
@@ -391,7 +391,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
       <td>Reference in Language and Coreference Resolution
         <br>
-        [<a href="slides/cs224n-2021-lecture13-coref.pdf">slides</a>]
+        [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture13-coref.pdf">slides</a>]
       </td>
     <td>
     Suggested readings:
@@ -411,7 +411,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>T5 and large language models: The good, the bad, and the ugly <i>(guest lecture by <a href="https://colinraffel.com/">Colin Raffel</a>)</i>
     <br>
-    [<a href="slides/cs224n-2021-lecture14-t5.pdf">slides</a>]
+    [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture14-t5.pdf">slides</a>]
     </td>
     <td>
     Suggested readings:
@@ -428,7 +428,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Integrating knowledge in language models <i>(lecture by <a href="http://www.mleszczy.com">Megan Leszczynski</a>)</i>
     <br>
-    [<a href="slides/cs224n-2021-lecture15-lm.pdf">slides</a>]
+    [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture15-lm.pdf">slides</a>]
     </td>
     <td>
     Suggested readings:
@@ -454,7 +454,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Social &amp; Ethical Considerations in NLP Systems <i>(guest lecture by <a href="http://www.cs.cmu.edu/~ytsvetko/">Yulia Tsvetkov</a>)</i>
     <br>
-    [<a href="slides/cs224n-2021-lecture16-ethics.pdf">slides</a>]
+    [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture16-ethics.pdf">slides</a>]
     </td>
     <td></td>
     <td></td>
@@ -464,7 +464,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Model Analysis and Explanation <i>(lecture by <a href="https://nlp.stanford.edu/~johnhew/">John Hewitt</a>)</i>
       <br>
-      [<a href="slides/cs224n-2021-lecture17-analysis.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture17-analysis.pdf">slides</a>]
     </td>
     <td></td>
     <td></td>
@@ -474,7 +474,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
   <tr>
     <td>Future of NLP + Deep Learning <i>(lecture by <a href="https://murtyshikhar.github.io/">Shikhar Murty</a>)</i>
       <br>
-      [<a href="slides/cs224n-2021-lecture18-future.pdf">slides</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture18-future.pdf">slides</a>]
     </td>
     <td></td>
     <td></td>
@@ -485,7 +485,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     <td></td>
     <td></td>
     <td>Project Summary Image and Paragraph <b><font color="green">out</font></b>
-    [<a href="project/project-summary-instructions-2021.pdf">instructions</a>]
+    [<a href="http://web.stanford.edu/class/cs224n/project/project-summary-instructions-2021.pdf">instructions</a>]
     </td>
     <td></td>
   </tr>
@@ -496,7 +496,7 @@ Below table copied from [here](http://web.stanford.edu/class/cs224n/index.html#s
     <td></td>
     <td>
       Project <b><font color="red">due</font></b>
-      [<a href="project/project-report-instructions-2021.pdf">instructions</a>]
+      [<a href="http://web.stanford.edu/class/cs224n/project/project-report-instructions-2021.pdf">instructions</a>]
     </td>
   </tr>
 
